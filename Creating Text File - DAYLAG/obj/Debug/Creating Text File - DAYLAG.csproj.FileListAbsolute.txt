@@ -1,0 +1,12 @@
+C:\Users\ComputerLab4PC1\source\repos\Creating Text File - DAYLAG\bin\Debug\Creating Text File - DAYLAG.exe.config
+C:\Users\ComputerLab4PC1\source\repos\Creating Text File - DAYLAG\bin\Debug\Creating Text File - DAYLAG.exe
+C:\Users\ComputerLab4PC1\source\repos\Creating Text File - DAYLAG\bin\Debug\Creating Text File - DAYLAG.pdb
+C:\Users\ComputerLab4PC1\source\repos\Creating Text File - DAYLAG\obj\Debug\Creating Text File - DAYLAG.csprojAssemblyReference.cache
+C:\Users\ComputerLab4PC1\source\repos\Creating Text File - DAYLAG\obj\Debug\Creating_Text_File___DAYLAG.FrmFileName.resources
+C:\Users\ComputerLab4PC1\source\repos\Creating Text File - DAYLAG\obj\Debug\Creating_Text_File___DAYLAG.FrmLab1.resources
+C:\Users\ComputerLab4PC1\source\repos\Creating Text File - DAYLAG\obj\Debug\Creating_Text_File___DAYLAG.Properties.Resources.resources
+C:\Users\ComputerLab4PC1\source\repos\Creating Text File - DAYLAG\obj\Debug\Creating Text File - DAYLAG.csproj.GenerateResource.cache
+C:\Users\ComputerLab4PC1\source\repos\Creating Text File - DAYLAG\obj\Debug\Creating Text File - DAYLAG.exe
+C:\Users\ComputerLab4PC1\source\repos\Creating Text File - DAYLAG\obj\Debug\Creating Text File - DAYLAG.pdb
+C:\Users\ComputerLab4PC1\source\repos\Creating Text File - DAYLAG\obj\Debug\Creating_Text_File___DAYLAG.FrmRegistration.resources
+C:\Users\ComputerLab4PC1\source\repos\Creating Text File - DAYLAG\obj\Debug\Creating_Text_File___DAYLAG.FrmStudentRecord.resources
